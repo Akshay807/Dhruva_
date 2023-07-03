@@ -22,12 +22,25 @@ In order to make a product to save life of peoples on road. The device needs to:
 4. Standalone, Should not be dependent on any other parameter/device to detect or communicate, else it will delay the help.
 
 # 1. Reliable crash detection
-Detect an accurate crash when bike is travelling.
-Distinguish whether the crash is false crash or a true crash, So that it can act according to the situation.
-Distinguish whether the bike is actually travelling on road or standing stationary somewhere, so that it can communicate to the appropriate concerned person.
+a. Detect an accurate crash when bike is travelling.
+b. Distinguish whether the crash is false crash or a true crash, So that it can act according to the situation.
+c. Distinguish whether the bike is actually travelling on road or standing stationary somewhere, so that it can communicate to the appropriate concerned person.
 
 # 2. Reliable Communication
-Communicate to at least one of all the concerned authorities depending on current nature (riding/stationary) of bike.
-Convey all the information required to concerned authorities to reach the crash detected place.
-Communicate at any time, weather & location.
+a. Communicate to at least one of all the concerned authorities depending on current nature (riding/stationary) of bike.
+b. Convey all the information required to concerned authorities to reach the crash detected place.
+c. Communicate at any time, weather & location.
+
+# 3. Safeguarded
+a. Be small enough so that can be easily fixed on bike.
+b. Not get damaged when bike meets an accident.
+c. Be easily accessible whenever needed by the biker.
+d. Not create complexity for maintenance purposes.
+
+# 4. Standalone
+a. Not be dependent on any other device/parameter to reliably detect and communicate.
+b. Not be dependent on any third party app that will delay communication.
+c. Should have independent power supply.
+
+We call such a Smart, Intelligent & Investigative device as #Cognitio.
    
