@@ -1,18 +1,16 @@
 # Indian Roads can be fatal. On Indian roads there is one death in every 4 minutes due to road accidents. India loses one city every year due to road accidents. Two-wheelers account for around 35% of total road accidents.
 ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/01d31261-7d00-434b-a592-968a129dbfdc)  ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/df042d68-af76-4a8c-a73d-c08cf05c0bfa)
 
-# The main reason behind this terrifying data is Delayed Emergency Medical Help. 
-The accident happened remains unnoticed several times or people hesitate to help, which ultimately causes fatality. If the happened accident gets noticed and information is conveyed to rescue authorities within time, 
-# Life of the bike rider can be saved.	
+The main reason behind this terrifying data is Delayed Emergency Medical Help. The accident happened remains unnoticed several times or people hesitate to help, which ultimately causes fatality. 
+# If the happened accident gets noticed and information is conveyed to rescue authorities within time, Life of the bike rider can be saved.	
 
-Problem Observed: To detect a bike crash and to convey the crash information to rescue authorities and friends/relatives in real time. ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/d93e46a7-2052-4f91-a49d-5bf774fdf404)
-
+Problem Observed: To detect a bike crash and to convey the crash information to rescue authorities and friends/relatives in real time. ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/0edf2319-5bf8-4978-887b-2de6e9630399)
 
 Detailed Solution:
--> An electronic device rigidly mounted on the bike.
--> That experiences the same inclination and acceleration as that of bike.
--> Detects an accurate crash.
--> Reliably communicates to rescue authorities and relatives along with total information of crash.
+1. An electronic device rigidly mounted on the bike.
+2. That experiences the same inclination and acceleration as that of bike.
+3. Detects an accurate crash.
+4. Reliably communicates to rescue authorities and relatives along with total information of crash.
 
 In order to make a product to save life of peoples on road. The device needs to:
 1. Reliably detect a crash, So that no false cases are detected.
@@ -42,6 +40,9 @@ b. Not be dependent on any third party app that will delay communication.
 c. Should have independent power supply.
 
 # We call such a Smart, Intelligent & Investigative device as Cognitio.
+![image](https://github.com/Akshay807/Dhruva_/assets/37154329/8520aef6-c6d5-4492-846b-d830a60cbb51)   ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/2814f75e-e539-4683-b4d2-cf96c5815606)
+
+
 
 ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/48034e1a-7c43-436b-aa1a-994026abe8cc)   ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/4f6e19d1-f474-435b-aebf-0bfdde7df3dd)
 
