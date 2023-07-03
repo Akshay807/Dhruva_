@@ -42,5 +42,8 @@ c. Should have independent power supply.
 # We call such a Smart, Intelligent & Investigative device as Cognitio. 
 ![Team_Dhruva_ (1)](https://github.com/Akshay807/Dhruva_/assets/37154329/5cc05f6a-f675-4eb6-8168-5c1456799914)
 
+# More Resources:
+1. https://yourstory.com/2019/08/team-dhruva-smart-india-hackathon-bike-crash-alert.
+2. https://youtu.be/h0N2TgxFxvU
 
    
