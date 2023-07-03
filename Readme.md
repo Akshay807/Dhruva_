@@ -6,3 +6,17 @@ On Indian roads there is one death in every 4 minutes due to road accidents. Ind
 The accident happened remains unnoticed several times or people hesitate to help, which ultimately causes fatality. If the happened accident gets noticed and information is conveyed to rescue authorities within time, 
 # Life of the bike rider can be saved.	
 
+Problem Observed: To detect a bike crash and to convey the crash information to rescue authorities and friends/relatives in real time.
+![image](https://github.com/Akshay807/Dhruva_/assets/37154329/d86ee929-d00c-4112-8c6a-3f15d6c1b9cf)
+
+Detailed Solution:
+-> An electronic device rigidly mounted on the bike.
+-> That experiences the same inclination and acceleration as that of bike.
+-> Detects an accurate crash.
+-> Reliably communicates to rescue authorities and relatives along with total information of crash.
+
+In order to make a product to save life of peoples on road. The device needs to:
+1. Reliably detect a crash, So that no false cases are detected.
+2. Communicate Reliably, Convey the total information of accident required to reach the help as early as possible.
+3. Safeguarded, Device should not get damaged after experiencing a crash, else it will hamper the communication.
+4. Standalone, Should not be dependent on any other parameter/device to detect or communicate, else it will delay the help.
