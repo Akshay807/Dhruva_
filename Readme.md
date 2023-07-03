@@ -40,11 +40,7 @@ b. Not be dependent on any third party app that will delay communication.
 c. Should have independent power supply.
 
 # We call such a Smart, Intelligent & Investigative device as Cognitio.
-![image](https://github.com/Akshay807/Dhruva_/assets/37154329/8520aef6-c6d5-4492-846b-d830a60cbb51)   ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/2814f75e-e539-4683-b4d2-cf96c5815606)
-
-
-
-![image](https://github.com/Akshay807/Dhruva_/assets/37154329/48034e1a-7c43-436b-aa1a-994026abe8cc)   ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/4f6e19d1-f474-435b-aebf-0bfdde7df3dd)
+![image](https://github.com/Akshay807/Dhruva_/assets/37154329/8520aef6-c6d5-4492-846b-d830a60cbb51)   ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/2814f75e-e539-4683-b4d2-cf96c5815606)   ![Team_Dhruva_ (1)](https://github.com/Akshay807/Dhruva_/assets/37154329/5cc05f6a-f675-4eb6-8168-5c1456799914)
 
 
    
