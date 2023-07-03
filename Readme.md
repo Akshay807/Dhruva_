@@ -5,8 +5,8 @@
 The accident happened remains unnoticed several times or people hesitate to help, which ultimately causes fatality. If the happened accident gets noticed and information is conveyed to rescue authorities within time, 
 # Life of the bike rider can be saved.	
 
-Problem Observed: To detect a bike crash and to convey the crash information to rescue authorities and friends/relatives in real time.
-![image](https://github.com/Akshay807/Dhruva_/assets/37154329/d86ee929-d00c-4112-8c6a-3f15d6c1b9cf)
+Problem Observed: To detect a bike crash and to convey the crash information to rescue authorities and friends/relatives in real time. ![image](https://github.com/Akshay807/Dhruva_/assets/37154329/d93e46a7-2052-4f91-a49d-5bf774fdf404)
+
 
 Detailed Solution:
 -> An electronic device rigidly mounted on the bike.
